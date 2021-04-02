@@ -1,0 +1,19 @@
+body {
+	background-color: #334f31;
+	color: #ffffff;
+}
+
+h2.section__title {
+	color: #bebceb;
+}
+
+div.subtitle {
+	font-size: 20px;
+    font-weight: 700;
+    color: #46d025;
+}
+
+div.container {
+	font-size: 15px;
+    margin: 5px 15px;
+}
