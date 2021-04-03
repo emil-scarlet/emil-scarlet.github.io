@@ -2,7 +2,9 @@ body {
 	background-color: #334f31;
 	color: #ffffff;
 }
-
+h2.bigtitle {
+	font-size: 100px;
+}
 div.subtitle {
 	font-size: 30px;
 	font-weight: 700;
